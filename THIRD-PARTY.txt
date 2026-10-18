@@ -1,0 +1,3 @@
+Includes @gradio/client 2.7.1 browser bundle. Source: https://github.com/gradio-app/gradio/tree/main/client/js
+Bundle: https://cdn.jsdelivr.net/npm/@gradio/client@2.7.1/dist/index.min.js
+Upstream repository license: GRADIO-LICENSE.txt. npm package metadata declares ISC.
